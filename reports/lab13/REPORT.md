@@ -11,12 +11,12 @@ $ open https://docs.docker.com/get-started/
 - [x] 1. Создать публичный репозиторий с названием **lab13** на сервисе **GitHub**
 - [x] 2. Ознакомиться со ссылками учебного материала
 - [x] 3. Выполнить инструкцию учебного материала
-- [x] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
+$ export GITHUB_USERNAME=kirill-isaev
 ```
 
 ```ShellSession
